@@ -72,24 +72,6 @@ Python-Camera-Data-Analysis
 └── Data_Task.pdf
 ```
 
----
-
-## Sample Output
-
-### Statistical Summary
-
-(Add Screenshot)
-
-### Missing Value Analysis
-
-(Add Screenshot)
-
-### Release Year Analysis
-
-(Add Screenshot)
-
----
-
 ## Author
 
 Simran Mulla
