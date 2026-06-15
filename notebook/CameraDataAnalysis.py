@@ -9,7 +9,7 @@ import os
 import pandas as pd
 import numpy as np
 
-os.chdir(r"C:\Users\Simran\Documents\Python\Project\Project 1-20250904T101823Z-1-001\Project 1")
+os.chdir(r"\Project 1")
 
 #Task 1: Create a dataframe “Camera_data” using Camera.csv.
 Camera_data = pd.read_csv("Camera.csv")
