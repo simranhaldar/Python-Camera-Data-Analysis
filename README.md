@@ -74,4 +74,4 @@ Python-Camera-Data-Analysis
 
 ## Author
 
-Simran Mulla
+Simran Haldar
