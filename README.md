@@ -70,11 +70,9 @@ The dataset contains:
 Python-Camera-Data-Analysis
 │
 ├── data
-├── screenshots
-├── Python_Project_1_Simran.py
-├── requirements.txt
+├── PowerBi_Camera_Dasboard.pdf
+├── notebook
 ├── README.md
-└── Data_Task.pdf
 ```
 
 ## Author
